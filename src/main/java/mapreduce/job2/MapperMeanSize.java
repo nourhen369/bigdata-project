@@ -1,4 +1,4 @@
-package job2;
+package mapreduce.job2;
 
 import java.io.IOException;
 import org.apache.hadoop.io.*;
